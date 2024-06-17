@@ -1,0 +1,15 @@
+  .reset-password-button {
+    width: 100%;
+    padding: 10px;
+    background: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .reset-password-button:disabled {
+    background: #ccc;
+  }
+  
